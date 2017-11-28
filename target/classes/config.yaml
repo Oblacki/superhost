@@ -19,6 +19,7 @@ kumuluzee:
   config:
     etcd:
       hosts: http://192.168.99.100:2379
+    config_ordinal: 110
   #health:
   #  checks:
   #    data-source-health-check:
