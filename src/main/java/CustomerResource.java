@@ -27,7 +27,7 @@ public class CustomerResource {
     private ObjectMapper objectMapper;
 
     @Inject
-    @DiscoverService("apartments")
+    @DiscoverService(value = "apartments", version = "1.0.x", environment = "dev")
     private Optional<String> baseUrl;
 
     @PostConstruct
@@ -70,26 +70,10 @@ public class CustomerResource {
 
     public List<Apartment> getApartments(String customerId){
 
-       /* if (baseUrl.isPresent()) {
-
-            try {
-                return httpClient
-                        .target(baseUrl.get() + "/v1/orders?where=customerId:EQ:" + customerId)
-                        .request().get(new GenericType<List<Order>>() {
-                        });
-            } catch (WebApplicationException | ProcessingException e) {
-                log.error(e);
-                throw new InternalServerErrorException(e);
-            }
-        }
-
-        return new ArrayList<>();*/
-
-
         if(baseUrl.isPresent()) {
             try {
-
-                return httpClient.target(baseUrl.get() + "v1/apartments/customer/" + customerId).request()
+                System.out.println(baseUrl.get() + "/v1/apartments/customer/" + customerId);
+                return httpClient.target(baseUrl.get() + "/v1/apartments/customer/" + customerId).request()
                         .get(new GenericType<List<Apartment>>() {});
 
 
