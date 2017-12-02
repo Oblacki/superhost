@@ -1,7 +1,9 @@
-CustomerApplication.class
 Apartment.class
-Customer.class
 CustomerResource.class
+CustomerServiceHealthCheck.class
 Database.class
-RestProperties.class
 CustomerResource$1.class
+CustomerApplication.class
+Customer.class
+RestProperties.class
+LogContextInterceptor.class
