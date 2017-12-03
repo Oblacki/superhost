@@ -18,7 +18,7 @@ spec:
         livenessProbe:
           httpGet:
             path: /health
-            port: server
+            port: 8080
           initialDelaySeconds: 20
           periodSeconds: 3
         ports:
