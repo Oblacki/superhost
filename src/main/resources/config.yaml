@@ -9,7 +9,7 @@ kumuluzee:
       port: 8080
   discovery:
     etcd:
-      hosts:  http://localhost:2379 #http://192.168.99.100:2379
+      hosts: http://localhost:2379 #http://192.168.99.100:2379
   config:
     etcd:
       hosts: http://localhost:2379 #http://192.168.99.100:2379
