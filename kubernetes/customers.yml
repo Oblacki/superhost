@@ -10,7 +10,7 @@ spec:
         app: customers
     spec:
       containers:
-      - image: oblacki/customers:oblacek2
+      - image: oblacki/customers:101217v1
         name: customers
         env:
           - name: KUMULUZEE_DISCOVERY_CLUSTER
