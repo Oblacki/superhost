@@ -4,7 +4,7 @@
 public class Apartment {
 
     private String id;
-    private String numOfBeds;
+    private int numOfBeds;
     private String customerId;
 
     public String getId() {
@@ -15,11 +15,11 @@ public class Apartment {
         this.id = id;
     }
 
-    public String getNumOfBeds() {
+    public int getNumOfBeds() {
         return numOfBeds;
     }
 
-    public void setNumOfBeds(String numOfBeds) {
+    public void setNumOfBeds(int numOfBeds) {
         this.numOfBeds = numOfBeds;
     }
 

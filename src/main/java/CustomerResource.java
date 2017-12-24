@@ -12,12 +12,16 @@ import javax.ws.rs.core.GenericType;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import java.io.IOException;
+import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import javax.inject.Inject;
 import javax.ws.rs.client.Client;
 import org.eclipse.microprofile.metrics.annotation.Metered;
+import org.eclipse.microprofile.faulttolerance.CircuitBreaker;
+import org.eclipse.microprofile.faulttolerance.Fallback;
+import org.eclipse.microprofile.faulttolerance.Timeout;
 
 @RequestScoped
 @Consumes(MediaType.APPLICATION_JSON)
@@ -84,6 +88,9 @@ public class CustomerResource {
         return Response.noContent().build();
     }
 
+    @CircuitBreaker(requestVolumeThreshold = 2)
+    @Fallback(fallbackMethod = "getApartmentsFallback")
+    @Timeout//(value = 2, unit = ChronoUnit.SECONDS)
     public List<Apartment> getApartments(String customerId){
 
         if(baseUrl.isPresent()) {
@@ -100,6 +107,22 @@ public class CustomerResource {
         }
         else
             return new ArrayList<>();
+    }
+
+    public List<Apartment> getApartmentsFallback(String customerId) {
+
+        List<Apartment> apartments = new ArrayList<>();
+
+        Apartment ap = new Apartment();
+
+        ap.setId("N/A");
+        ap.setNumOfBeds(0);
+        ap.setCustomerId("N/A");
+
+        apartments.add(ap);
+
+        return apartments;
+
     }
 
     private List<Apartment> getObjects(String json) throws IOException {
