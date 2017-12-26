@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf8704d-7404-4ad1-a45a-5c1d7346bf33" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_cdi-api-1.2.jar.4056251831213485038.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hk2-locator-2.5.0-b32.jar.7861392455182693750.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_http2-hpack-9.4.8.v20171121.jar.5554828715052882889.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.servlet-api-3.1.0.jar.2387148946964069306.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-cdi1x-2.25.1.jar.8745265602064399030.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-client-2.25.1.jar.8922257320231616507.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-common-2.25.1.jar.4386691121285585801.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-container-servlet-2.25.1.jar.1512096103161478596.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-server-2.25.1.jar.8872875040199371523.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-http-9.4.8.v20171121.jar.7268604005456294755.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-jndi-9.4.8.v20171121.jar.6850447253198004604.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-util-9.4.8.v20171121.jar.234805730529539026.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-webapp-9.4.8.v20171121.jar.4558391798977366491.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-cdi-weld-2.5.0-SNAPSHOT.jar.450572046333524420.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-common-2.5.0-SNAPSHOT.jar.5888496365172302198.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-config-etcd-1.1.0-SNAPSHOT.jar.5610702546745277204.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-discovery-common-1.1.0-SNAPSHOT.jar.8622693595040183906.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-discovery-etcd-1.1.0-SNAPSHOT.jar.4353253907700502015.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-fault-tolerance-common-1.0.0-SNAPSHOT.jar.4190640755703848904.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-fault-tolerance-hystrix-1.0.0-SNAPSHOT.jar.5731563511969420776.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-health-1.0.0-SNAPSHOT.jar.7839455501528703516.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-jax-rs-jersey-2.5.0-SNAPSHOT.jar.4403881511245976984.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-logs-common-1.3.0.jar.4681501435288158264.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-logs-log4j2-1.3.0.jar.7705064474007706528.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-metrics-core-1.0.0-SNAPSHOT.jar.1694087376522017982.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-servlet-jetty-2.5.0-SNAPSHOT.jar.4699400806390799640.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_log4j-core-2.8.2.jar.7211510261324293603.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-api-2.4.SP2.jar.5709793622271347956.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-core-impl-2.4.6.Final.jar.5818549489655230400.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-servlet-core-2.4.6.Final.jar.1358949136380689637.tmp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Apartment.class" afterPath="$PROJECT_DIR$/target/classes/Apartment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CustomerResource.class" afterPath="$PROJECT_DIR$/target/classes/CustomerResource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/customers-2.5.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/customers-2.5.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/customers-2.5.0-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/target/customers-2.5.0-SNAPSHOT.jar.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kubernetes/customers.yml" afterPath="$PROJECT_DIR$/kubernetes/customers.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Apartment.java" afterPath="$PROJECT_DIR$/src/main/java/Apartment.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,9 +65,14 @@
       <file leaf-file-name="Apartment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="510">
+              <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customers.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="customers.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kubernetes/customers.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -78,8 +120,8 @@
       <file leaf-file-name="CustomerResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CustomerResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+            <state relative-caret-position="1411">
+              <caret line="106" column="9" lean-forward="false" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="289">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -153,12 +195,12 @@
         <option value="$PROJECT_DIR$/src/main/java/RestProperties.java" />
         <option value="$PROJECT_DIR$/src/main/java/LogContextInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.yaml" />
-        <option value="$PROJECT_DIR$/kubernetes/customers.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Apartment.java" />
         <option value="$PROJECT_DIR$/src/main/java/CustomerResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Apartment.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/kubernetes/customers.yml" />
       </list>
     </option>
   </component>
@@ -198,9 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -259,6 +298,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -444,12 +486,13 @@
       <workItem from="1512812811612" duration="3174000" />
       <workItem from="1512818131595" duration="176000" />
       <workItem from="1512906342402" duration="1504000" />
-      <workItem from="1514103470564" duration="2904000" />
+      <workItem from="1514103470564" duration="3160000" />
+      <workItem from="1514278895800" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31265000" />
+    <option name="totallyTimeSpent" value="31931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -464,8 +507,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -476,8 +519,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -522,9 +565,9 @@
         <state relative-caret-position="238">
           <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -593,9 +636,9 @@
         <state relative-caret-position="272">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -677,9 +720,9 @@
         <state relative-caret-position="272">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -764,9 +807,9 @@
         <state relative-caret-position="272">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -820,9 +863,9 @@
         <state relative-caret-position="238">
           <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -869,18 +912,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CustomerResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+        <state relative-caret-position="1411">
+          <caret line="106" column="9" lean-forward="false" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -911,14 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kubernetes/customers.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kubernetes/customers-service.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -927,10 +954,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="289">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kubernetes/customers.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding />
         </state>
       </provider>

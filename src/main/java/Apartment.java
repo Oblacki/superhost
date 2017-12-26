@@ -1,3 +1,5 @@
+import java.util.List;
+
 /**
  * @author Matej Dolenc
  */
@@ -6,6 +8,7 @@ public class Apartment {
     private String id;
     private int numOfBeds;
     private String customerId;
+    private List<String> guestIds;
 
     public String getId() {
         return id;
@@ -29,6 +32,14 @@ public class Apartment {
 
     public void setCustomerId(String customerId) {
         this.customerId = customerId;
+    }
+
+    public List<String> getGuestIds() {
+        return guestIds;
+    }
+
+    public void setGuestIds(List<String> guestIds) {
+        this.guestIds = guestIds;
     }
 
 }
