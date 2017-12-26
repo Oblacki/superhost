@@ -1,9 +1,8 @@
 Apartment.class
-CustomerResource.class
-CustomerServiceHealthCheck.class
+PriceSearchResource$1.class
 Database.class
-CustomerResource$1.class
-CustomerApplication.class
-Customer.class
 RestProperties.class
 LogContextInterceptor.class
+PriceSearchResource.class
+PriceSearchServiceHealthCheck.class
+PriceSearchApplication.class
