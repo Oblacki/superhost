@@ -4,8 +4,8 @@ RUN mkdir /app
 
 WORKDIR /app
 
-ADD ./target/price-search-2.5.0-SNAPSHOT.jar /app
+ADD ./target/superhost-2.5.0-SNAPSHOT.jar /app
 
-EXPOSE 8083
+EXPOSE 8085
 
-CMD ["java", "-jar", "price-search-2.5.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "superhost-2.5.0-SNAPSHOT.jar"]

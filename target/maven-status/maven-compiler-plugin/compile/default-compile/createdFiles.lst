@@ -1,8 +1,9 @@
 Apartment.class
-PriceSearchResource$1.class
+SuperhostApplication.class
 Database.class
+SuperhostServiceHealthCheck.class
+Customer.class
+SuperhostResource$1.class
 RestProperties.class
 LogContextInterceptor.class
-PriceSearchResource.class
-PriceSearchServiceHealthCheck.class
-PriceSearchApplication.class
+SuperhostResource.class

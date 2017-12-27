@@ -1,0 +1,27 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: superhost
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: superhost
+    spec:
+      containers:
+      - image: oblacki/superhost:271217v1
+        name: superhost
+        env:
+          - name: KUMULUZEE_DISCOVERY_CLUSTER
+            value: bluemix
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8085
+          initialDelaySeconds: 20
+          periodSeconds: 3
+        ports:
+        - containerPort: 8085
+          name: server
+          protocol: TCP
